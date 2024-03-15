@@ -10,7 +10,7 @@ Shortest example to reproduce, using compilation and linking (corruption occured
 
 Clone this project.
 
-Run windows sandbox with current folders shared as usual `C:\Users\WDAGUtilityAccount\Desktop`
+Run windows sandbox ([check list for make Windows Sandbox works](https://www.makeuseof.com/windows-sandbox-no-hypervisor-found-0xc0351000/)) with current folders shared as usual `C:\Users\WDAGUtilityAccount\Desktop`
 ```
 01-start-windows-sandbox.bat 
 ```
